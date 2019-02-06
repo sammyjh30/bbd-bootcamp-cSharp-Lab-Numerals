@@ -1,0 +1,17 @@
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.csprojAssemblyReference.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.AssemblyInfoInputs.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.AssemblyInfo.cs
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.deps.json
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.runtimeconfig.json
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.runtimeconfig.dev.json
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.pdb
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\NumberSystemConverter.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\bin\Debug\netcoreapp2.2\NumberSystemConverter.pdb
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.csproj.CopyComplete
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter_UnitTests\obj\Debug\netcoreapp2.2\NumberSystemConverter_UnitTests.pdb

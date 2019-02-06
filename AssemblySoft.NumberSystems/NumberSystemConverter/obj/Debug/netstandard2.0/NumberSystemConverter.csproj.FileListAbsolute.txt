@@ -1,0 +1,9 @@
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter\bin\Debug\netstandard2.0\NumberSystemConverter.deps.json
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter\bin\Debug\netstandard2.0\NumberSystemConverter.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter\bin\Debug\netstandard2.0\NumberSystemConverter.pdb
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\netstandard2.0\NumberSystemConverter.csprojAssemblyReference.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\netstandard2.0\NumberSystemConverter.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\netstandard2.0\NumberSystemConverter.AssemblyInfoInputs.cache
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\netstandard2.0\NumberSystemConverter.AssemblyInfo.cs
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\netstandard2.0\NumberSystemConverter.dll
+C:\Users\bbdnet2004\Documents\Learning\C#\RomanNumerals\AssemblySoft.NumberSystems\NumberSystemConverter\obj\Debug\netstandard2.0\NumberSystemConverter.pdb
